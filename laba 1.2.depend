@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584997520 source:c:\users\Ислам\desktop\laba 1.2\car2.cpp
+	"car2.h"
+	<string>
+	<iostream>
+
+1584997489 c:\users\Ислам\desktop\laba 1.2\car2.h
+	<iostream>
+	<string>
+
+1584997543 source:c:\users\Ислам\desktop\laba 1.2\main.cpp
+	<iostream>
+	"car2.h"
+	<string>
+
